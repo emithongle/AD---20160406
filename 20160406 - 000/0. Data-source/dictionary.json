@@ -1,0 +1,9 @@
+{
+  "name-term-set": [],
+  "address-term-set": ["ấp", "ap", "đường", "duong", "đường số", "duong so", "hẻm", "hem", "huyện", "huyen", "kcc", "kcn", "kdc", "kdt", "khoi", "khối", "khom", "khóm", "khu", "khu chung cu", "khu chung cư", "khu cong nghiep", "khu công nghiệp", "khu dan cu", "khu dân cư", "khu do thi", "khu đô thị", "khu nha", "khu nhà", "khu pho", "khu phố", "khu vuc", "khu vực", "kp", "kv", "lau", "lầu", "lo", "lô", "ngach", "ngách", "ngõ", "p.", "phố", "phường", "q", "ql", "quận", "quan", "quoc lo", "quốc lộ", "số", "so", "tầng", "tang", "tdp", "thanh pho", "thành phố", "thi tran", "thị trấn", "thi xa", "thị xã", "thôn", "thon", "thửa", "thua", "tinh lo", "tỉnh lộ", "tổ", "to", "to dan pho", "tổ dân phố", "tòa", "toa", "toa nha", "tòa nhà", "tp", "tt", "tx", "xã", "xóm"],
+  "phone-term-set": ["lines", "line", "nhánh", "nhanh", "máy lẻ", "may le", "số lẻ", "so le"],
+
+  "unicode": "ạảãàáâậầấẩẫăắằặẳẵóòọõỏôộổỗồốơờớợởỡéèẻẹẽêếềệểễúùụủũưựữửừứíìịỉĩýỳỷỵỹđẠẢÃÀÁÂẬẦẦẨẪĂẮẰẶẲẴÓÒỌÕỎÔỘỔỖỒỐƠỜỜỢỞỠÉÈẺẸẼÊẾỀỆỂỄÚÙỤỦŨƯỰỮỬỪỨÍÌỊỈĨÝỲỶỴỸĐ",
+  "ascii": "aaaaaaaaaaaaaaaaaoooooooooooooooooeeeeeeeeeeeuuuuuuuuuuuiiiiiyyyyydAAAAAAAAAAAAAAAAAOOOOOOOOOOOOOOOOOEEEEEEEEEEEUUUUUUUUUUUIIIIIYYYYYD",
+  "upper-characters": "ẠẢÃÀÁÂẬẦẦẨẪĂẮẰẶẲẴÓÒỌÕỎÔỘỔỖỒỐƠỜỜỢỞỠÉÈẺẸẼÊẾỀỆỂỄÚÙỤỦŨƯỰỮỬỪỨÍÌỊỈĨÝỲỶỴỸĐ"
+}
